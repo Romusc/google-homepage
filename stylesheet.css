@@ -1,0 +1,93 @@
+#div1 {
+	display: block;
+	width: 100%;
+	height: 40px;
+	background-color: white;
+	position: relative;
+}
+
+
+#div2 {
+	display: block;
+	width: 100%;
+	height: 200px;
+	background-color: white;
+	position: relative;
+}
+
+#hplogo {
+	display: block;
+	position: relative;
+	margin: auto;
+}
+
+#input {
+  display: block;
+	position: relative;
+	margin: auto;
+  font: 16px arial;
+  line-height: 24px;
+  height: 24px;
+  width: 350px;
+}
+
+#div3a {
+  margin-top: 10px;
+  display: inline-block;
+  width: 49%;
+  height: 35px;
+  background-color: white;
+  position: relative;
+}
+
+#div3b {
+  margin-top: 10px;
+  display: inline-block;
+  width: 49%;
+  height: 35px;
+  background-color: white;
+  position: relative;
+}
+
+#search-wrap {
+  position: absolute;
+  height: 30px;
+  background-color: white;
+  left: 82%
+}
+
+#lucky-wrap {
+  position: absolute;
+  margin-left: 0px;
+  height: 30px;
+  background-color: white;
+}
+
+#thebutton {
+  height: 100%;
+  width: 100%;
+  background-color: #d9d9d9;
+  border: none;
+  text-align: center;
+  font-weight: bold;
+  color: #404040;
+}
+
+#thebutton:hover {
+   border: solid thin black;
+   color: black;
+}
+
+.topr {
+  display: inline-block;
+  float: right;
+  width: 30px;
+  margin-top: 20px;
+  color: #262626
+}
+
+.topr:hover {
+  text-decoration: underline
+}
+
+
